@@ -1,5 +1,5 @@
 # SA-Youth-Employment-Prediction
-# Youth Employment Prediction in South Africa 🇿🇦
+# Youth Employment Prediction in South Africa
 
 ##  Project Overview
 
